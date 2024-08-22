@@ -1,0 +1,7 @@
+Technologies Used: 
+1.Python: For data analysis and model development 
+2.Scikit-learn: For regression, decision tree, and sensitivity analysis 
+3.TensorFlow/Keras: For building the deep learning neural network model 
+4.Streamlit: For creating the interactive dashboard Pandas 
+5.NumPy: For data manipulation and processing
+6.Google Colab(Gemini)
